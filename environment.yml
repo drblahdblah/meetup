@@ -1,0 +1,3 @@
+name: meetup
+dependencies:
+- python=3.6
